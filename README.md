@@ -1,3 +1,3 @@
 Hola, Mi nombre es Hernández Talavera Omar Emmanuel, aquí subiré los trabajos que el profesor Roberto Méndez Méndez solicite.
 
-Ya he entregado los algoritmos de la tarea Vectores Matrices y Transformación, RSA_Key_Generation.py es del apartado Movie, Primos y Criptografía, DLT_METHOD.py es del primer apartado de Lectura, más especifico, aplicarlo a una situación de la vida real.
+Por si se pregunta porque hay subidos nuevas carpetas al repositorio, se debe a que las organicé para que no se vieran desordenadas, pero dejo los archivos ya anteriormente subidos para que no piense que hasta apenas las estoy subiendo, solo las reacomodé.
